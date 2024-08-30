@@ -1,0 +1,6 @@
+org\jsp\boot_jsp\BootJspApplication.class
+org\jsp\boot_jsp\repository\MyRepository.class
+org\jsp\boot_jsp\controller\MyController.class
+org\jsp\boot_jsp\service\MyService.class
+org\jsp\boot_jsp\dto\Student.class
+org\jsp\boot_jsp\dao\MyDao.class
